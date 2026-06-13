@@ -1,0 +1,16 @@
+com\studyflow\api\controller\EmailController$EmailRequest.class
+com\studyflow\api\model\Task.class
+com\studyflow\api\repository\UserRepository.class
+com\studyflow\api\StudyFlowApplication.class
+com\studyflow\api\config\SecurityConfig.class
+com\studyflow\api\controller\AuthController$LoginRequest.class
+com\studyflow\api\repository\TaskRepository.class
+com\studyflow\api\repository\ExamRepository.class
+com\studyflow\api\model\Exam.class
+com\studyflow\api\controller\EmailController.class
+com\studyflow\api\controller\AuthController.class
+com\studyflow\api\service\EmailService.class
+com\studyflow\api\model\User.class
+com\studyflow\api\controller\HealthCheckController.class
+com\studyflow\api\controller\TaskController.class
+com\studyflow\api\controller\ExamController.class
